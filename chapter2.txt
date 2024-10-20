@@ -1,2 +1,3 @@
 after git commit 1
 saved in commit 2
+edited after commit 2 and saved as commit 3 
