@@ -1,0 +1,2 @@
+after git commit 1
+saved in commit 2
